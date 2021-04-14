@@ -1,0 +1,30 @@
+header{
+    background-image: url('../Material_Clase_4/img/lemon-pie.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: whitesmoke;
+    height: 400px;
+}
+
+
+h1{
+}
+
+.links{
+    color: whitesmoke ;
+}
+
+.oscurecer-img{
+    filter: brightness(80%); // Más oscura
+    z-index: 2;
+  }
+
+
+.unfilter{
+    z-index: 3;
+} 
+
+.ingredientes{
+    font-size: 24px;
+}
